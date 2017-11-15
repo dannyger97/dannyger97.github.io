@@ -1,2 +1,2 @@
 # dannyger97.github.io
-[Webtech HAN](dannyhan.me/Webtech/index.html)
+[Webtech HAN](http://www.dannyhan.me/Webtech/index.html)
