@@ -1,1 +1,2 @@
-# dannyger97.github.io/Webtech
+# dannyger97.github.io
+dannyhan.me/Webtech/index.html
